@@ -1,5 +1,5 @@
 {
-    "name": "zendframework/zend-mime",
+    "name": "xiaohuilam/zend-mime",
     "description": "Create and parse MIME messages and parts",
     "license": "BSD-3-Clause",
     "keywords": [
@@ -16,8 +16,8 @@
         "forum": "https://discourse.zendframework.com/c/questions/components"
     },
     "require": {
-        "php": "^5.6 || ^7.0",
-        "zendframework/zend-stdlib": "^2.7 || ^3.0"
+        "php": ">=5.6",
+        "xiaohuilam/zend-stdlib": ">=2.7"
     },
     "require-dev": {
         "zendframework/zend-mail": "^2.6",
